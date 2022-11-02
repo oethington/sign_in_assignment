@@ -1,0 +1,161 @@
+#wrapper{
+    margin: 0px auto;
+    width: 100%;
+    border-bottom: 1.5px solid gray;
+    display: block;
+    margin-top: 170px;
+    /* text-align: center; */
+
+    
+}
+.sign_in_box{
+    border: 1px solid gray;
+    max-width: 400px;
+    height: 310px;
+    padding-left: 20px;
+    /* text-align: center; */
+    margin: auto;
+    margin-bottom: 100px;
+
+
+}
+/* body{
+    font-family: Arial;
+} */
+
+.password_forgot a{
+    color: rgb(0, 123, 255);
+    text-decoration: none;
+
+}
+
+#forgot{
+    margin-left: 160px;
+    height: 15px;
+    margin-top: 30px;
+    
+}
+
+
+.password_forgot{
+    display:flex;
+}
+
+#password_text{
+    max-width: 150px;
+    margin-top: 30px;
+    margin-left: 39px;
+
+}
+
+#create{
+    width: 375px;
+    background-color: lightgrey;
+    border: .5px solid black;
+    height: 25px;
+}
+
+#create a{
+    text-decoration: none;
+    color: black;
+
+}
+
+#email{
+    width: 375px;
+}
+
+#password{
+    width: 375px;
+    /* margin-top: 5px; */
+    margin-bottom: 20px;
+}
+
+#forgot{
+    margin-bottom: 10px;
+
+}
+
+#email_title{
+    margin-bottom: 5px;
+}
+
+#email_title{
+    margin-bottom: 15px;
+}
+
+#continue{
+    width: 375px;
+    background-color: gold;
+    border: .5px solid black;
+    height: 25px;
+    margin-bottom: 20px;
+
+}
+
+#continue a{
+    text-decoration: none;
+    color: black;
+
+}
+
+
+
+#need_help{
+    color: rgb(0, 123, 255);
+    text-decoration: none;
+    margin-left: 20px;
+    /* margin-top: 50px; */
+    display: flex;
+    align-items: center;
+    
+}
+
+.bottom_links{
+    /* text-align: center; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 555px;
+    width: 400px;
+    margin-top: 18px;
+    /* flex-direction: column; */
+}
+.bottom_links a:hover{
+    color: rgb(0, 123, 255);
+    text-decoration: none;
+    font-size: 15px;
+    
+}
+
+.copy{
+    font-size: 15px;
+    text-align: center;
+    
+}
+
+span{
+    font-size: 6px;
+    margin-right: 8px;
+}
+
+#new_here{
+    font-size: 18px;
+    margin-top: 40px;
+    text-align: center;
+    position: relative;
+    background-color: white;
+    /* width: 250px; */
+
+}
+
+#new_here hr{
+    position: absolute;
+    width: 100%;
+    margin: 0;
+    top: 50%;
+    z-index: -.5;
+    border-bottom: none;
+    left: 0;    
+}   
+
